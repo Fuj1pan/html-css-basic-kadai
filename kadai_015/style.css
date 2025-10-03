@@ -16,10 +16,10 @@ h1 {
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
-  font-size: 2rem;
-  letter-spacing: 1.2rem;
-  text-shadow: 0.1rem 0.1rem 0.2rem gray;
-  border-bottom: solid 0.1875rem rgb(115, 115, 114); 
+  font-size: 40px;
+  letter-spacing: 48px;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114); 
 }
 
 #basic p {
